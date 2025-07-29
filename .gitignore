@@ -8,7 +8,7 @@ yarn-error.log
 .env
 
 # OS/system files
-.DS_Store
+**/.DS_Store
 Thumbs.db
 
 # Build output
